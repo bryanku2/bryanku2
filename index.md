@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bryan Ku
 
 You can use the [editor on GitHub](https://github.com/bryanku2/bryanku2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
